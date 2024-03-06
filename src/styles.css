@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.slider {
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
